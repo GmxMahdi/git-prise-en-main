@@ -5,6 +5,8 @@ A = [1.0 2.0 3.0;
     3.0 3.5 -4.0]
 b = ones(3)
 
+# Je vais resoudre lequation en bas
+
 # 1) résoudre Ax = b 
 
 ### votre code ici
